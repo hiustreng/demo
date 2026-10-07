@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Xin chao, C++!\n";
+    return 0;
+}
